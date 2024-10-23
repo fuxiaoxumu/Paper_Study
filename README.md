@@ -9,4 +9,4 @@
 - 0929 YOLOv10: Real-Time End-to-End Object Detection
 - 1013 LLaMA Open and Efficient Foundation Language Models
 - 1015 【NIPS 2022】 Training language models to follow instructions with human feedback
-
+- 1023 【】Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection
