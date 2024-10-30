@@ -1,4 +1,4 @@
-# Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection
+# Grounding DINO Marrying DINO with Grounded Pre-Training for Open-Set Object Detection
 阅读时间：10.23
 
 
