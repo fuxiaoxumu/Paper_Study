@@ -19,6 +19,7 @@
 #### 问题
 - 开放集目标检测和visual grounding（VG）根据自然语言查询在图像中定位对象的区别？grounding这个任务不是本来就检测了吗，为啥要和detection结合，是缺了检测头？
 - sub-sentence level text features.为什么能解决全类名的干扰信息，怎么做到注意力masks掉无用的
+- 类名连在一起的方式为啥就不用那么对类个数敏感了
 
 ## Idea
 - 加CLIP的方式感觉像度量学习
