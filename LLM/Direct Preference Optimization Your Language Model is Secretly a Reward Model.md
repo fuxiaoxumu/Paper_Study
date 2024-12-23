@@ -1,6 +1,6 @@
 # 【NIPS 2023】 Direct Preference Optimization: Your Language Model is Secretly a Reward Model
 
-阅读时间：1030
+阅读时间：1105
 斯坦福大学
 
 ## Motivation
