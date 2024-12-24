@@ -10,4 +10,6 @@
 - 1013 LLaMA Open and Efficient Foundation Language Models
 - 1015 【NIPS 2022】 Training language models to follow instructions with human feedback
 - 1023 Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection
-- 1125 【NIPS 2023】 Direct Preference Optimization: Your Language Model is Secretly a Reward Model 
+- 1104 【ICCV 2021】 Swin Transformer Hierarchical Vision Transformer using Shifted Windows
+- 1125 【NIPS 2023】 Direct Preference Optimization: Your Language Model is Secretly a Reward Model
+- 1223 【arxive】YOLOv11 Optimization for Efficient Resource Utilization
